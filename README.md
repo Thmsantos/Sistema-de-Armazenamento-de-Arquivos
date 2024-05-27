@@ -59,3 +59,16 @@
     <ul>
 </h3>
 <img src="./client/assets/frontCmd.png">
+<br>
+
+<h2>
+    Executando o projeto:
+</h2>
+
+<h3>Executando o servidor: Entre no caminho do servidor como feito acima e digite o seguinte comando: <i>npx ts-node app.ts</i></h3>
+<img src="./client/assets/executeServer.png">
+
+<br>
+
+<h3>Executando o Front-end: Entre no caminho do Front-End como feito acima e digite o seguinte comando: <i>npm run start</i></h3>
+<img src="./client/assets/executeFront.png">
