@@ -11,7 +11,7 @@
     <br>
     Caso não tiver esses pacotes instalados:
     <ul>
-        <li>Node.js <a href="https://nodejs.org/en/download/prebuilt-installer"></li>
+        <li>Node.js e Npm <a href="https://nodejs.org/en/download/prebuilt-installer">Download</a></li>
     </ul>
     <br>
 </h3>
